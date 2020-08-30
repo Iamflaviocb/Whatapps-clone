@@ -1,4 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 🖥🔍 Whatapps Clone
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [Firebase](https://firebase.google.com/).
+
+### [Demo website](https://whatapps-clone.web.app/)
+
+![alt text](public/screenshot.png)
 
 ## Available Scripts
 
